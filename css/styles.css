@@ -910,7 +910,7 @@ Single Page
   min-height: calc(100vh - 5rem - 198px);
 }
 .page-info {
-  max-width: 700px;
+  max-width: 207px;
 }
 .page-info a {
   text-transform: uppercase;
